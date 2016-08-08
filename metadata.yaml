@@ -1,0 +1,27 @@
+_repo: Viajes-por-Filipinas--De-Manila---Marianas_12274
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alvarez Guerra, Juan
+    aliases:
+    - Guerra, Juan Álvarez
+    - Guerra, Juan Alvarez
+    birthdate: 1843
+    deathdate: 1905
+    gutenberg_agent_id: '4292'
+    url: http://www.gutenberg.org/2009/agents/4292
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12274'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: 'Viajes por Filipinas: De Manila á Marianas'
+url: http://www.gutenberg.org/ebooks/12274
